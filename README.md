@@ -1,2 +1,4 @@
 # Analysis-of-Gene-Expressions
-analyzing gene expression values from Gtex datasets and visualizing
+Analyzing gene expression values from Gtex and TCGA datasets with NumPy and Pandas. Also includes data visualization and generated report.
+
+Note: data not included in GitHub because data is only available with permission from sources.
